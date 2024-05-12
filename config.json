@@ -1,0 +1,8 @@
+{
+    "PORT":3000,
+    "USER":"postgres",
+    "HOST":"localhost",
+    "DATABASE":"cordova",
+    "PASSWORD":"root",
+    "DBPORT":5432
+}
